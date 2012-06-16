@@ -1,3 +1,5 @@
 Stack based time management tool.
 
 Inspired by @xrath(http://xrath.com/2012/05/time-management-based-on-stack/)
+
+$ pip install timestack

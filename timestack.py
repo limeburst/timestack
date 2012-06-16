@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from Tkinter import *
 from datetime import datetime
 from time import gmtime, strftime

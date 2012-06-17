@@ -15,4 +15,5 @@ setup(
         py_modules=["timestack"],
         scripts=["timestack.py"],
         app=['timestack.py'],
+        windows=['timestack.py'],
         )

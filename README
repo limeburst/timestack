@@ -4,3 +4,7 @@ Inspired by @xrath(http://xrath.com/2012/05/time-management-based-on-stack/)
 
 $ pip install timestack
 $ timestack.py
+
+App-ify on OS X using py2app
+
+$ sudo python setup.py py2app -A

@@ -5,7 +5,7 @@ except ImportError:
     pass
 
 setup(
-        name='timestack',
+        name='Timestack',
         version="0.1",
         description="Stack based time management tool.",
         long_description=open("README").read(),
@@ -14,4 +14,5 @@ setup(
         url="http://github.com/limeburst/timestack",
         py_modules=["timestack"],
         scripts=["timestack.py"],
+        app=['timestack.py'],
         )

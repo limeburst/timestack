@@ -14,8 +14,4 @@ App-ify on OS X using py2app
 
     $ python setup.py py2app
 
-Exe-fy on Windows using py2exe
-
-    $ python setup.py py2exe
-
 Or download the prebuilt binary [here](https://github.com/limeburst/timestack/releases).
